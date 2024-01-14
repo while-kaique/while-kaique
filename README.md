@@ -1,4 +1,4 @@
-### Hi there 👋
+### Opa, tudo em cima? 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=while-kaique&show_icons=true&theme=tokyonight&hide_rank=true)
 
